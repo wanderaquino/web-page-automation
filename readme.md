@@ -1,4 +1,4 @@
-# Paraná Banco Challenge - Testes Funcionais Automatizados
+# Testes Funcionais Automatizados
 ## Descrição
 Aplicação desenvolvida para antender ao requisito de testes funcionais automatizados.
 
